@@ -7,9 +7,9 @@ TagLine:
 	
 Mission:
 
-	1.)	To provide local water testing results, water supplier, and water supervisor
+	1.)	To provide local water testing result, water supplier, and water supervisor
 		resource information to any individual based on their provided location.  And to
-		provide a platform for residents to upload their water testing results anonymously for public analysis and scrutiny.
+		provide a platform for residents and utilities to upload their water testing results for a public and programmatic analysis.
  
 	
 	
@@ -31,7 +31,7 @@ So What?
 		e.) open-sourcing the development of tools to aid in the detection of problems in the water supply
 		f.) providing quick and reliable access to information channels which have ability, authority, and desire to stop problems
 		g.) providing block-chained 'bad report' tickets to ensure successful transfer of information relating to potentially harmful events and states
-		h.) through blockchain tech, allowing and open audit of the transfer of information regarding hazards, in order to maintain accountability
+		h.) through blockchain tech, allowing an open audit of the transfer of information regarding hazards, in order to maintain accountability
 		
 	3.) This concept will open up the auditing process and protect our water supply for everyone in the country
 	
@@ -46,6 +46,7 @@ Potential Intellectual Property:
 		
 	3.) "Waterscore" trademark
 	
+	4.) Development of middleware to format test results located in other databases for our platform
 
 Revenue Streams:
 
@@ -104,7 +105,8 @@ Strategy:
 		4.) Phase 4 deals with the standardization of our products and methods into local building codes and standard practices.  As we continue 
 			use volunteers and contract workers to move further from our "bases" and grow the movement, we are lobbying our local legislators where
 			we have had some time and exposure.  Our arguement will be that this has so much importance to the community, that our "datapipe" technology 
-			should be used in every new construction.  This will take lobbyists and people familiar with such things to accomplish.  
+			should be used in every new construction.  This will take lobbyists and people familiar with such things to accomplish.  More routes to consider 
+			at this point would be lobbying for return of a portion of the 2G network to be dedicated to National Security via infastructure management (via Datapipe comms)
 			
 		5.) Phase 5 we enjoy the benefits of having made our products required by most local laws across the country, taking our payment 
 			every. single. time. someone breaks ground in the country.  
@@ -252,8 +254,8 @@ Types of Competition and SWOT:
 		
 		Weaknesses:
 		1.) Not much community information, not very personal
-		2.) Old test results; at best, the information pertaining to a disaster would be made available 3= years
-			after events ocurred.
+		2.) Old test results; at best, the information pertaining to a disaster would be made available 3+ years
+			after events occurred.
 		3.) Not easy to find accountability records for each utility via website.  
 		4.) No input from the community on water quality
 		
@@ -263,6 +265,16 @@ Types of Competition and SWOT:
 			to water events
 		2.) Develop and easy way to make water an easy conversation with public officials
 		
-		
+Key points differentiating between MMY and EWG
+
+	1.) MMY is programmatically cooperative.  Data displayed in rich way, but also allows access to raw data for software 
+		development
+	2.) MMY is up-to-date.  With a goal of an analysis of every single public water system in the US, every 30 days. 
+	3.) MMY provides chain of authority information regarding each water source
+	
+	
+Actionable Items:
+	1.) Develop proprietary water testing kit including USB
+
 	
 	
