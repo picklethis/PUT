@@ -1,4 +1,8 @@
-Meet My Water 
+
+
+Concept Names:
+	1.) "My Water" .com/org/etc
+	2.) "Meet My Water" maybe referring to the page with your info
 
 
 TagLine:
@@ -11,7 +15,13 @@ Mission:
 		resource information to any individual based on their provided location.  And to
 		provide a platform for residents and utilities to upload their water testing results for a public and programmatic analysis.
  
-	
+
+
+
+Potential Research
+	1.) Designing and development of patentable water testing systems coupled with communication
+	2.) Design of "pure-Water" collection and distribution systems
+	3.) Unique design using patentable processes using 3d printed RO membranes
 	
 So What? 
 
@@ -58,6 +68,8 @@ Revenue Streams:
 	
 	4.) Sales of Proprietary Analysis of data to local municipalities
 		a.) Although all raw data will be freely available to the public on visit to the site
+		
+	5.) Sale of valuable (of any value) materials filtered out of water	
 
 Structure:
 	Key Points:
